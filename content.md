@@ -15,7 +15,7 @@
 Note:
 Die vier besten Top-3-Tipps für bessere Texte!
 ---
-# 1. Kurz fassen 🔽
+## 1. Kurz fassen 🔽
 
 
 1. KURZ FASSEN
