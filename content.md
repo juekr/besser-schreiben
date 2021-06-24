@@ -75,17 +75,14 @@ Hier ist auch schon ein Gedanke aus dem nächsten Abschnitt drin: Adverbialkonst
 ## Die Straße zur Hölle ist gepflastert mit Adverbien. 
 _(Stephen King)_
 
+Note:
+Adverbien sind: anders, äußerst, beinahe, bekanntlich, ebenfalls, fast, folgendermaßen, ganz, genauso, genug, gern, hoffentlich, kaum, leider, möglicherweise, sehr, so, vielleicht, wirklich
+
 
 2. AKTIV UND ANSPRECHEND SCHREIBEN
 
 ### Wenn Sie ein Adjektiv sehen, töten Sie es. Vielleicht nicht in jedem Fall. Aber töten Sie die meisten – dann ist der Rest wertvoll. Adjektive schwächen Ihren Text, wenn sie zu dicht stehen. Sie geben Kraft, wenn sie viel Raum zwischen sich haben.
 _(Mark Twain)_
-
-
-2. AKTIV UND ANSPRECHEND SCHREIBEN
-
-## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich. 
-(_Wolf Schneider)_
 
 
 ## Schön und gut – aber wie schreibe ich nun aktiv und ansprechend?
@@ -158,3 +155,8 @@ _(Joseph Pulitzer)_
 Note:
 * Man muss nicht in der Bratpfanne gelegen haben, um über ein Schnitzel zu schreiben. (Maxim Gorki)
 * Der erste Satz kann nicht geschrieben werden, bevor der letzte Satz geschrieben ist. (Joyce Carol Oates)
+
+---
+
+## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich. 
+_(Wolf Schneider)_
