@@ -182,3 +182,65 @@ _(Wolf Schneider)_
 Note:
 * Man muss nicht in der Bratpfanne gelegen haben, um über ein Schnitzel zu schreiben. (Maxim Gorki)
 * Der erste Satz kann nicht geschrieben werden, bevor der letzte Satz geschrieben ist. (Joyce Carol Oates)
+---
+## Anhang
+
+
+## Schreiben ist leicht. Man muss nur die falschen Wörter weglassen.
+_Mark Twain | bekannt für „Die Abenteuer des Huckleberry Finn“ und die Erfindung des BH-Trägers_
+
+
+## Wenn einem Autor der Atem ausgeht, werden die Sätze nicht kürzer, sondern länger.
+_John Steinbeck | bekannt für „Früchte des Zorns“ und das Schreiben von Hand und mit bis zu 60 Bleistiften pro Tag_
+
+
+## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich.
+_Wolf Schneider | bekannt für „Deutsch für Profis“ und die Gründung des Vereins Deutsche Sprache_
+
+
+## Es gibt Schriftsteller, die schon in zwanzig Seiten ausdrücken können, wozu ich manchmal sogar zwei Zeilen brauche.
+_Karl Kraus | bekannt für „Die letzten Tage der Menschheit“ und seine teils medienwirksamen Austritte aus zwei Religionsgemeinschaften_
+
+
+## Ein Text ist nicht dann vollkommen, wenn man nichts mehr hinzufügen kann, sondern wenn man nichts mehr weglassen kann.
+_Antoine de Saint-Exupéry | bekannt für „Der kleine Prinz“, starke Depressionen und den Abschuss seines Flugzeugs im Zweiten Weltkrieg_
+
+
+## Die Straße zur Hölle ist gepflastert mit Adverbien.
+_Stephen King | bekannt für: „ES“ und den Diebstahl von Pylonen in seiner Studentenzeit_
+
+
+## Talent ist billiger als Salz. Was den erfolgreichen Menschen vom talentierten unterscheidet, ist eine Menge harter Arbeit.
+_Stephen King | bekannt für: „Der dunkle Turm“ und seine Zugehörigkeit zur Autoren-Band „Rock Bottom Remainders“_
+
+
+## Wenn ich gefragt werde 'Wie schreiben sie?', antworte ich ohne zu zögern: 'Ein Wort nach dem anderen'.
+_Stephen King | bekannt für: „Christine“ und das Blocken von Donald Trump auf Twitter_
+
+
+## Wer die Zeit hat zu lesen, der kann auch Schriftsteller werden!
+_bekannt für: „Cujo“, eine Drogensucht und die Tatsache, dass er sich nicht mehr erinnern kann, das Buch „Cujo“ geschrieben zu haben_
+
+
+## Der furchteinflößendste Moment ist immer der, bevor du anfängst.
+_Stephen King | bekannt für: „Shining“ und den Guinness-Rekord für die meisten Filmadaptionen seiner Werke_
+
+
+## Man muss nicht in der Bratpfanne gelegen haben, um über ein Schnitzel zu schreiben.
+_Maxim Gorki | bekannt für „Фома Гордеев“, „Исповедь“ und „Дети солнца“, außerdem für seine Arbeit in einer als Bäckerei getarnten marxistischen Geheimbibliothek_
+
+
+## Meine Texte sind mittelmäßig, aber meine Überarbeitungen sind spitze.
+_David Ogilvy | bekannt für seine Autobiografie und Werbetexte wie „At 60 miles an hour the loudest noise in this new Rolls-Royce comes from the electric clock“_
+
+
+## Der erste Satz kann nicht geschrieben werden, bevor der letzte Satz geschrieben ist.
+_Joyce Carol Oates | bekannt für „Blackwater“, drei Pulitzer-Nominierungen und den Bruch mit der „1 Buch pro Jahr“-Praktik der anderen Autoren ihrer Generation_
+
+
+## Bringen Sie es zu Papier. Wagen Sie etwas. Es mag schlecht sein, aber es ist die einzige Möglichkeit, etwas Gutes zustande zu bringen.
+_William Faulkner | bekannt für „Die Spitzbuben“, komplexe Schachtelsätze und diverse Alkohol-Entziehungskuren_
+
+
+## Schreibe kurz – und sie werden es lesen. Schreibe klar – und sie werden es verstehen. Schreibe bildhaft – und sie werden es im Gedächtnis behalten.
+_Joseph Pulitzer | bekannt für den nach ihm benannten Preis und schonungslosen, gut recherchierten Journalismus_
