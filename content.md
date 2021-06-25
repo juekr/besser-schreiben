@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/l3vRbn3cDAwhfgaY0/giphy.gif" class="r-stretch" />
 
 <div>
-    <h2 style="display: inline">Schreiben ist leicht. Du musst nur die falschen Wörter weglassen.</h2> <em>(Mark Twain)<em>
+    <h2 style="display: inline">Schreiben ist leicht. Du musst nur die falschen Wörter weglassen.</h2> <em>(Mark Twain)</em>
 </div>
 
 ---
@@ -35,7 +35,7 @@ _Karl Kraus_
     <li class="fragment">Schachtelsätze trennen <br />(und ALLE Satzzeichen verwenden)</li>
     <li class="fragment">Satzlängen variieren.</li>
     <li class="fragment">Kernaussagen nicht durch zu viele parallele Gedanken aufweichen.</li>
-    <li class="fragment">Texte mehrfach überarbeiten.</li>
+    <li class="fragment">... und:</li>
 </ul>
 
 Note:
@@ -53,7 +53,7 @@ Du kannst eigentlich alle Füllwörter streichen, ebenso wie Beispiele, die so �
 
 
 ## Beispiel:
-Du kannst ~~eigentlich~~ alle Füllwörter streichen, ebenso wie _überflüssige_ Beispiele, ~~die so überflüssig sind wie ein Kropf,~~ unnötige Aspekte~~wie den Fakt, dass ein Kropf eigentlich Struma heißt~~, vom Thema wegführende Gedanken~~wie den Punkt, dass du nach dem Streichen unbedingt nochmal von vorne Korrektur lesen solltest~~, und allzu komplexe~~, weil verschachtelte und damit schwer lesbare~~ Konstruktionen~~, die als hilfreiche Einschübe gedacht deine Sätze zum Flickenteppich machen~.
+Du kannst ~~eigentlich~~ alle Füllwörter streichen, ebenso wie _überflüssige_ Beispiele, ~~die so überflüssig sind wie ein Kropf,~~ unnötige Aspekte~~wie den Fakt, dass ein Kropf eigentlich Struma heißt~~, vom Thema wegführende Gedanken~~wie den Punkt, dass du nach dem Streichen unbedingt nochmal von vorne Korrektur lesen solltest~~, und allzu komplexe~~, weil verschachtelte und damit schwer lesbare~~ Konstruktionen~~, die als hilfreiche Einschübe gedacht deine Sätze zum Flickenteppich machen~~.
 
 
 ## Beispiel:
@@ -86,12 +86,14 @@ _(Mark Twain)_
 
 
 ## Schön und gut – aber wie schreibe ich nun aktiv und ansprechend?
-* Adverbien und Adjektive hinterfragen
-* Substantivierungen vermeiden
-* Passivkonstruktionen vermeiden
-* positiv schreiben
-* "man" vermeiden
-* Fremdwörter sparsam verwenden
+<ul>
+     <li class="fragment">Adverbien und Adjektive hinterfragen</li>
+    <li class="fragment">Substantivierungen vermeiden</li>
+    <li class="fragment">Passivkonstruktionen vermeiden</li>
+    <li class="fragment">positiv schreiben</li>
+    <li class="fragment">"man" vermeiden</li>
+    <li class="fragment">Fremdwörter sparsam verwenden</li>
+</ul>
 
 
 ## Adjektive:
@@ -150,13 +152,33 @@ _(Joseph Pulitzer)_
 <em>(Howard Luck Gossage)</em>
 
 ---
+## 4. Lesende überraschen 🔽
+
+
+4. LESENDE ÜBERRASCHEN
+## Überraschungen helfen, die Konzentration der Lesenden zu halten.  
+
+
+**Überrascht eure Leserinnen und Leser – indem ihr beispielsweise ...**
+<ul>
+    <li class="fragment">mit Erwartungshaltung spielt: <em>„Hier kommt Nummer 4 der Top 3 Tipps für bessere Texte.“</em></li>
+    <li class="fragment">Floskeln oder Sprichwörter abändert: <em>„Wer Anderen eine Grube gräbt, hat vorher hoffentlich eine Baugenehmigung eingeholt.“</em></li>
+    <li class="fragment">Worte neu schöpft: <em>Brücken-Lockdown, mütend, Covidioten“</em></li>
+    <li class="fragment">scheinbar unpassende Themen kombiniert: <em>„Warum New Work viel mit einem Bungeesprung gemein hat“</em></li>
+</ul>
+
+Note:
+Fun Fact: Corona hat rund 1.000 neue Wörter in Umlauf gebracht: https://www.ndr.de/kultur/Sprachforscher-sammeln-rund-1000-neue-Woerter-rund-um-Corona,sprache188.html#:~:text=Wie%20das%20IDS%20am%20Montag,und%20Wellenbrecherlockdown%20bis%20zu%20Zoomparty.
+
+---
+## Zum Schluss: Das Korrektur-Dilemma
+---
+
+## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich. 
+_(Wolf Schneider)_
+---
 <img data-src="images/korrigieren.png" class="r-stretch">
 
 Note:
 * Man muss nicht in der Bratpfanne gelegen haben, um über ein Schnitzel zu schreiben. (Maxim Gorki)
 * Der erste Satz kann nicht geschrieben werden, bevor der letzte Satz geschrieben ist. (Joyce Carol Oates)
-
----
-
-## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich. 
-_(Wolf Schneider)_
