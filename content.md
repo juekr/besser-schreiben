@@ -24,6 +24,8 @@ Die vier besten Top-3-Tipps für bessere Texte!
 _(John Steinbeck)_
 
 
+1. KURZ FASSEN
+
 ## Es gibt Schriftsteller, die schon in zwanzig Seiten ausdrücken können, wozu ich manchmal sogar zwei Zeilen brauche. 
 _Karl Kraus_
 
