@@ -105,7 +105,7 @@ _(Mark Twain)_
 
 ## Adjektive:
 * „Unsere höchst effizienten Produkte …“ <- ist diffus und unkonkret
-    * besser: „Unsere Produkte sparen dir Zeit – weil Arbeitsschritte automatisieren und Aufgaben nach Dringlichkeit sortiert anzeigen“
+    * besser: „Unsere Produkte sparen dir Zeit – weil sie Arbeitsschritte automatisieren und Aufgaben nach Dringlichkeit sortiert anzeigen.“
     * platzsparender: „Produkte, die dir Zeit und Geld sparen“
 
 
