@@ -163,7 +163,6 @@ Die bitterkalte Nacht.
     <p>Es war so kalt, dass mein Atem kleine Wölkchen in den Nachthimmel entließ.</p>
 </div>
 
-
 ---
 ## 4. Lesende überraschen 🔽
 
