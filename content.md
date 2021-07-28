@@ -155,6 +155,7 @@ _(Joseph Pulitzer)_
 
 
 3. SHOW, DON'T TELL.
+
 Die bitterkalte Nacht.
 
 <div class="fragment">
