@@ -153,6 +153,16 @@ _(Joseph Pulitzer)_
 <h3 style="color: pink !important; font-weight: boldest;">If you're driving down the road and you see a Fina station and it's on your side so you don't have to make a U-turn through traffic and there aren't six cars waiting and you need gas or something, please stop in.</h3>
 <em>(Howard Luck Gossage)</em>
 
+
+3. SHOW, DON'T TELL.
+Die bitterkalte Nacht.
+
+<div class="fragment">
+    <p><strong>oder:</strong></p>
+    <p>Es war so kalt, dass mein Atem kleine Wölkchen in den Nachthimmel entließ.</p>
+</div>
+
+
 ---
 ## 4. Lesende überraschen 🔽
 
