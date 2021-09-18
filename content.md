@@ -227,7 +227,10 @@ Das mit dem Überraschen ist in diesem Format vielleicht nicht die beste Strateg
 
 ---
 
-## Anhang 2: Schreibübungen
+## Anhang 2
+### Schreibübungen
+
+
 ### Verbessere den Text:
 Du kannst eigentlich alle Füllwörter streichen, ebenso wie Beispiele, die so überflüssig sind wie ein Kropf, unnötige Aspekte wie den Fakt, dass ein Kropf eigentlich Struma heißt, vom Thema wegführende Gedanken wie den Punkt, dass du nach dem Streichen unbedingt nochmal von vorne Korrektur lesen solltest, und allzu komplexe, weil verschachtelte und damit schwer lesbare Konstruktionen, die als hilfreiche Einschübe gedacht deine Sätze zum Flickenteppich machen.
 
