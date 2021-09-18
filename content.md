@@ -89,7 +89,7 @@ _(Mark Twain)_
 
 ## Schön und gut – aber wie schreibe ich nun aktiv und ansprechend?
 <ul>
-     <li class="fragment">Adverbien und Adjektive hinterfragen</li>
+    <li class="fragment">Adverbien und Adjektive hinterfragen</li>
     <li class="fragment">Substantivierungen vermeiden</li>
     <li class="fragment">Passivkonstruktionen vermeiden</li>
     <li class="fragment">positiv schreiben</li>
@@ -195,7 +195,62 @@ Note:
 * Man muss nicht in der Bratpfanne gelegen haben, um über ein Schnitzel zu schreiben. (Maxim Gorki)
 * Der erste Satz kann nicht geschrieben werden, bevor der letzte Satz geschrieben ist. (Joyce Carol Oates)
 ---
-## Anhang
+## Anhang 1:
+
+### "Format"-gerechtes Schreiben
+
+
+#### Dokumentationen (allgemein)
+<ol>
+    <li class="fragment">gute Vorstellung der Zielgruppe</li>
+    <li class="fragment">Zielgruppe > Funktionskatalog</li>
+    <li class="fragment">zum Punkt kommen</li>
+    <li class="fragment">Lesende führen – mit Zwischenüberschriften und Listen</li>
+    <li class="fragment">komplizierte Funktion => einfache Sätze</li>
+    <li class="fragment">Einbindung vorhandener Ressourcen (Bild, Video, Podcast, ...)</li>
+    <li class="fragment">Lesende direkt ansprechen</li>
+    <li class="fragment">am besten Alltagssprache verwenden</li>
+</ol>
+
+Note:
+1. Anfänger? Fortgeschrittene? Neulinge? 
+2. Denkt in Anwendungsszenarien, nicht in Funktionslisten
+3. Kein langes Geseier, keine Anekdoten, Ziel vor Augen 
+4. Zum Beispiel, indem schon in der Einladung gut erklärt wird, was man am Ende des Kapitels gelernt haben wird.
+5. Nicht überfordern!
+6. Gibt's andere Medien, die dazu passen?
+7. Kein man, kein Passiv. Sondern, „du“ oder „ihr“!
+8. Bleibt verständlich.
+
+Das mit dem Überraschen ist in diesem Format vielleicht nicht die beste Strategie.
+
+---
+
+## Anhang 2:
+### Schreibübungen
+
+### Verbessere den Text:
+Du kannst eigentlich alle Füllwörter streichen, ebenso wie Beispiele, die so überflüssig sind wie ein Kropf, unnötige Aspekte wie den Fakt, dass ein Kropf eigentlich Struma heißt, vom Thema wegführende Gedanken wie den Punkt, dass du nach dem Streichen unbedingt nochmal von vorne Korrektur lesen solltest, und allzu komplexe, weil verschachtelte und damit schwer lesbare Konstruktionen, die als hilfreiche Einschübe gedacht deine Sätze zum Flickenteppich machen.
+
+Note:
+Siehe oben.
+
+
+### Verbessere den Text:
+Heute wurde sehr viel aus dem Nähkästchen geplaudert – es ging um das Schreiben schlechter Texte sowie um kleine aber feine Verbesserungen, die man kinderleicht in die eigene Schreibe übernehmen kann.
+
+Note:
+Phrasen. Passiv. Substantivierung. Nochmal Phrasen. Adjektiv. Hilfsverb.
+Wir haben uns heute viele praktische Kniffe abgeschaut, mit denen wir künftig ganz einfach besser schreiben.
+
+
+### Verbessere den Text:
+Damit man in einer Mehrspuraufnahme, die erst durch die Verwendung eines passenden Interfaces möglich wird, nicht den Überblick verliert, werden die Spuren der Audioschnittsoftware REAPER und dem Digital-Audio-Workstation-Podcast-Plugin Ultraschall unterschiedlich farbig eingefärbt, sodass auch beim Hin- und Herspringen auf den ersten Blick gesehen werden kann, wo man gerade ist.
+
+---
+
+## Anhang 3:
+### Zitate
 
 
 ## Schreiben ist leicht. Man muss nur die falschen Wörter weglassen.
