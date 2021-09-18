@@ -171,12 +171,12 @@ Die bitterkalte Nacht.
 ## Überraschungen helfen, die Konzentration der Lesenden zu halten.  
 
 
-**Überrascht eure Leserinnen und Leser – indem ihr beispielsweise ...**
+**Überrasch deine Leserinnen und Leser – indem du beispielsweise ...**
 <ul>
-    <li class="fragment">mit Erwartungshaltung spielt: <em>„Hier kommt Nummer 4 der Top 3 Tipps für bessere Texte.“</em></li>
-    <li class="fragment">Floskeln oder Sprichwörter abändert: <em>„Wer Anderen eine Grube gräbt, hat vorher hoffentlich eine Baugenehmigung eingeholt.“</em></li>
-    <li class="fragment">Worte neu schöpft: <em>Brücken-Lockdown, mütend, Covidioten“</em></li>
-    <li class="fragment">scheinbar unpassende Themen kombiniert: <em>„Warum New Work viel mit einem Bungeesprung gemein hat“</em></li>
+    <li class="fragment">mit Erwartungshaltung spielst: <em>„Hier kommt Nummer 4 der Top 3 Tipps für bessere Texte.“</em></li>
+    <li class="fragment">Floskeln oder Sprichwörter abänderst: <em>„Wer Anderen eine Grube gräbt, hat vorher hoffentlich eine Baugenehmigung eingeholt.“</em></li>
+    <li class="fragment">Worte neu schöpfst: <em>Brücken-Lockdown, mütend, Covidioten“</em></li>
+    <li class="fragment">scheinbar unpassende Themen kombinierst: <em>„Warum New Work viel mit einem Bungeesprung gemein hat“</em></li>
 </ul>
 
 Note:
