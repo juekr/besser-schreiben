@@ -184,11 +184,12 @@ Fun Fact: Corona hat rund 1.000 neue Wörter in Umlauf gebracht: https://www.ndr
 
 ---
 ## Zum Schluss: Das Korrektur-Dilemma
----
+
 
 ## Beim Text muss sich einer quälen, der Absender oder der Empfänger. Besser ist, der Absender quält sich. 
 _(Wolf Schneider)_
----
+
+
 <img data-src="images/korrigieren.png" class="r-stretch">
 
 Note:
