@@ -34,7 +34,7 @@ _Karl Kraus_
 <ul>
     <li class="fragment">Füllwörter streichen.</li>
     <li class="fragment">Hilfsverbkonstruktionen vermeiden.</li>
-    <li class="fragment">Schachtelsätze trennen <br />(und ALLE Satzzeichen verwenden)</li>
+    <li class="fragment">Schachtelsätze trennen <br />(und ALLE Satzzeichen verwenden).</li>
     <li class="fragment">Satzlängen variieren.</li>
     <li class="fragment">Kernaussagen nicht durch zu viele parallele Gedanken aufweichen.</li>
     <li class="fragment">... und:</li>
