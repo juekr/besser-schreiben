@@ -311,3 +311,33 @@ _William Faulkner | bekannt für „Die Spitzbuben“, komplexe Schachtelsätze 
 
 ## Schreibe kurz – und sie werden es lesen. Schreibe klar – und sie werden es verstehen. Schreibe bildhaft – und sie werden es im Gedächtnis behalten.
 _Joseph Pulitzer | bekannt für den nach ihm benannten Preis und schonungslosen, gut recherchierten Journalismus_
+
+---
+
+# Danke!
+
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+    padding: 0.6em;;
+}
+</style>
+
+<div class="r-stack">
+    <div class="container fragment fade-out" data-fragment-index="0">
+        <div class="col">
+            <p><a href="mailto:oh-mein-gott@es-ist-ein-krauss.de">Jürgen Krauß</a> podcastet bei <a href="https://das-a.ch">Ach?</a> und <a href="https://schmerz.fm">Schmerzenssache</a>, macht außerdem 
+                <a href="https://brandad-systems.de">Unternehmenskommunikation</a> und schreibt <a href="https://es-ist-ein-krauss.de">Werbetexte</a>.</p>
+        </div>
+        <div class="col">
+            <img data-src="images/jk.jpg" class="r-stretch" style="width: 100%" />
+        </div>
+    </div>
+    <div class="container fragment current-visible" data-fragment-index="0" style="height: 100%;">
+        <p style="margin-top: auto;margin-bottom: auto;">Die Präsentation findet ihr hier: https://juekr.github.io/besser-schreiben/</p>
+        <img data-src="images/qr.png" class="r-stretch">
+    </div>
+</div>
